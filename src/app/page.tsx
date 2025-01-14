@@ -24,6 +24,9 @@ export default function Home() {
     "German",
     "Chinese",
     "Japanese",
+    "Arabic",
+    "Portuguese",
+    
   ]);
 
 
