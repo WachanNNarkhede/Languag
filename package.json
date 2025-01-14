@@ -1,0 +1,35 @@
+{
+  "name": "speak",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@tabler/icons": "^3.24.0",
+    "@tabler/icons-react": "^3.26.0",
+    "dotenv": "^16.4.7",
+    "mini-svg-data-uri": "^1.4.4",
+    "next": "15.0.4",
+    "openai": "^4.77.0",
+    "preline": "^2.6.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-speech-recognition": "^3.10.0",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^8",
+    "eslint-config-next": "15.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5"
+  }
+}
