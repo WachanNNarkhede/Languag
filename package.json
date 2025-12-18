@@ -14,7 +14,7 @@
     "@tabler/icons-react": "^3.26.0",
     "dotenv": "^16.4.7",
     "mini-svg-data-uri": "^1.4.4",
-    "next": "15.0.4",
+    "next": "15.0.7",
     "openai": "^4.77.0",
     "preline": "^2.6.0",
     "react": "^19.0.0",
